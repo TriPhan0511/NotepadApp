@@ -1,0 +1,10 @@
+C:\Users\OS\source\repos\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe.config
+C:\Users\OS\source\repos\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe
+C:\Users\OS\source\repos\NotepadApp\NotepadApp\bin\Debug\NotepadApp.pdb
+C:\Users\OS\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Form1.resources
+C:\Users\OS\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Resources.resources
+C:\Users\OS\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.GenerateResource.cache
+C:\Users\OS\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.CoreCompileInputs.cache
+C:\Users\OS\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.exe
+C:\Users\OS\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.pdb
+C:\Users\OS\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.AssemblyReference.cache
